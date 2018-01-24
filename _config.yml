@@ -1,0 +1,35 @@
+layout_spectrum: 0.6271674846158833
+typography_spectrum: 0.21802350138996424
+color:
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  brandStrength: 0.9244084983730302
+  lightness: 0.12955717682165305
+  saturation: 0.8777365180154765
+  rhythmicContrast: 0.6557906144400044
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: opaque intelligence
+content: []
+author:
+  name: Alexander R Johnson
+  email: alexrnau@gmail.com
+title: 'Opaque Intelligence '
+description: Pretty transparent brain-power
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfc70420-1a28-4faa-8671-a86001a4ee17.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5be25e2-ff2d-449d-b48c-670b740b7a6c.png
+content_rating:
+  adult: false
+url: 'https://thegrid.ai/florida-tiger/'
