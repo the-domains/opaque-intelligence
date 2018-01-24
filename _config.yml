@@ -86,7 +86,7 @@ url: 'https://thegrid.ai/florida-tiger/'
 purpose:
   - type: contact
     url: 'mailto:alexrnau@gmail.com'
-    label: Email me
+    label: Click to send me an Email
   - type: contact
     url: 'tel:6026154583'
     label: Call (602) 615 4583
