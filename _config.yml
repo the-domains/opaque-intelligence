@@ -1,5 +1,6 @@
-layout_spectrum: 0.06286411334032027
 typography_spectrum: 0.3748549602356841
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,6 +12,15 @@ color:
   lightness: 0.7338740644070071
   saturation: 0.15318384488196213
   rhythmicContrast: 0.9966600473560762
+github: true
+layout_spectrum: 0.06286411334032027
+author:
+  name: Alexander R Johnson
+  email: alexrnau@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5be25e2-ff2d-449d-b48c-670b740b7a6c.png
+name: Florida Tiger
+url: 'https://thegrid.ai/florida-tiger/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +28,13 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Florida Tiger
+navigation:
+  - name: WolframAlpha + MathQuill
+    id: fd1c1a63-2c25-4fe6-a058-e5ed1bf00663
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfc70420-1a28-4faa-8671-a86001a4ee17.png
+title: Florida Tiger
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,19 +44,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/08341744-0a63-4f37-97a2-c5cd6fb05656.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -52,37 +68,25 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/98e4fe09-89f5-467a-929e-3ad9edfc8cf8.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-author:
-  name: Alexander R Johnson
-  email: alexrnau@gmail.com
-title: Florida Tiger
 description: >-
   We are dedicated to helping resell worldwide knowledge products for today's
   Scandinavian dot-com virtual corporations.
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfc70420-1a28-4faa-8671-a86001a4ee17.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5be25e2-ff2d-449d-b48c-670b740b7a6c.png
-content_rating:
-  adult: false
-url: 'https://thegrid.ai/florida-tiger/'
 purpose:
   - type: contact
     url: 'mailto:alexrnau@gmail.com'
