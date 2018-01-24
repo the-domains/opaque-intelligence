@@ -87,3 +87,6 @@ purpose:
   - type: contact
     url: 'mailto:alexrnau@gmail.com'
     label: Email me
+  - type: contact
+    url: 'tel:6026154583'
+    label: Call (602) 615 4583
